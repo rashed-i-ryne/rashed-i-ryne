@@ -1,4 +1,9 @@
-<h1 align="center">Hi there, I'm Rashedul Islam Ryne and a Full-Stack Developer 👋</h1>
+
+<div align="center">
+  <img src="bannerImage/bannerImage.jpeg" alt="Full Stack Developer Banner" width="100%" />
+</div>
+
+<h1 align="center">Hi there, I'm Rashedul Islam Ryne <br>A Full-Stack Developer 👋</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Applications;Crafting+Advanced+CSS+Animations;Integrating+AI-Assisted+Workflows" alt="Typing SVG" />
