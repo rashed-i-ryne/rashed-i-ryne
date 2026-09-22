@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="bannerImage/bannerImage.jpeg" alt="Rashedul Islam Ryne - Full Stack Developer" width="100%" />
 </div>
@@ -6,6 +5,9 @@
 <div align="center">
   <h1>Rashedul Islam Ryne</h1>
   <p><b>Full-Stack Developer | MERN | TypeScript | AI-Assisted Engineering</b></p>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Rigorous+Problem-Solving+Mindset;Architecting+Robust+Backend+Systems;Crafting+Clean+TypeScript+%26+JavaScript;Bridging+Frontend+%26+Backend+Logic" alt="Typing SVG" />
+  <br><br>
   
   <a href="https://www.linkedin.com/in/rashedul-islam-ryne-b98894418"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/rashed-i-ryne"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -19,7 +21,7 @@
 
 As an Electrical and Electronic Engineering (EEE) student at United International University, I bring a rigorous, analytical problem-solving mindset to my work as a Full-Stack MERN Developer. My engineering background drives me to architect robust, scalable backend systems, while my creative passion lies in crafting highly interactive frontend experiences.
 
-I am deeply invested in the craft of writing clean, maintainable code. Whether I am structuring secure database architectures or meticulously fine-tuning CSS to create fluid visual experiences—such as perfectly timing a background transition from dark to light during sunrise, holding a vibrant light blue sky at high noon, and fading smoothly into night without relying on unnecessary ground elements—I approach every task with precision. I believe the best web applications merge engineering logic with seamless, user-centric design.
+I am deeply invested in the craft of writing clean, maintainable code. Whether I am structuring secure database architectures or meticulously fine-tuning CSS to create fluid visual experiences—such as perfectly timing a background color transition from dark to light during sunrise, maintaining a vibrant light blue sky when the sun is at its highest point, and fading smoothly back from light to dark at sunset without relying on any ground or horizon elements—I approach every task with precision. I believe the best web applications merge engineering logic with seamless, user-centric design.
 
 ---
 
@@ -94,6 +96,9 @@ I am deeply invested in the craft of writing clean, maintainable code. Whether I
 ## 📊 GitHub Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rashed-i-ryne&show_icons=true&theme=radium&hide_border=true&bg_color=0D1117&text_color=C9D1D9&title_color=58A6FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-i-ryne&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed-i-ryne&bg_color=0D1117&color=58A6FF&line=3B82F6&point=C9D1D9&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashed-i-ryne&theme=radium&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=8B949E&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak" />
 </div>
