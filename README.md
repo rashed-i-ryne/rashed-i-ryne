@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bannerImage/bannerImage.jpeg" alt="Rashedul Islam Ryne - Full Stack Developer" width="100%" />
+  <img src="bannerImage/banerImage.jpeg" alt="Rashedul Islam Ryne - Full Stack Developer" width="100%" />
 </div>
 
 <div align="center">
