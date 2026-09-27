@@ -97,7 +97,7 @@ I am deeply invested in the craft of writing clean, maintainable code. Whether I
 ## 📊 GitHub Activity Dashboard
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed-i-ryne&bg_color=0D1117&color=58A6FF&line=3B82F6&point=C9D1D9&hide_border=true" alt="GitHub Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashed-i-ryne&bg_color=0D1117&color=58A6FF&line=3B82F6&point=C9D1D9&hide_border=true&v=1" alt="GitHub Activity Graph" width="100%" />
 </div>
 <br/>
 <div align="center">
